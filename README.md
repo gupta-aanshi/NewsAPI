@@ -59,9 +59,9 @@ A simple and responsive **News Website** built using **HTML**, **CSS**, and **Ja
 ## **Screenshots**
 
 1. **Homepage with Latest News:**
-   ![Homepage](https://github.com/gupta-aanshi/NewsAPI/blob/main/img/Screenshot%202024-11-27%20173358.png)![Homepage](https://github.com/gupta-aanshi/NewsAPI/blob/main/img/Screenshot%202024-11-27%20173442.png)
+   ![Homepage](https://github.com/gupta-aanshi/NewsAPI/blob/main/assets/screenshots/Screenshot%202024-11-27%20173358.png)![Homepage](https://github.com/gupta-aanshi/NewsAPI/blob/main/assets/screenshots/Screenshot%202024-11-27%20173442.png)
 3. **Search Results:**
-   ![Search Results](https://github.com/gupta-aanshi/NewsAPI/blob/main/img/Screenshot%202024-11-27%20170926.png)
+   ![Search Results](https://github.com/gupta-aanshi/NewsAPI/blob/main/assets/screenshots/Screenshot%202024-11-27%20170926.png)
 
    ---
 
